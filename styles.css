@@ -1,3 +1,13 @@
+img {
+    color: antiquewhite;
+}
 h1 {
-    color: orangered
+    font-family:system-ui;
+    color: orange;
+}
+h2 {
+    color: crimson;
+}
+li {
+    color: black;   
 }
